@@ -1,3 +1,7 @@
+<html>
+<head>
+  </head>
+  <body>
 <?php
 
 $url = file_get_contents( 'https://api.giphy.com/v1/gifs/search?api_key=FbVUaqYe6eh0HQNkPTHPAeIW800aRw1L&q=wimdy&limit=1&offset=0&rating=g&lang=en
@@ -9,3 +13,5 @@ if ( isset( $json->data->images->original->url ) )
 
 
 >
+</body>
+</html>
