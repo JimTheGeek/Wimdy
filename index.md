@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/JimTheGeek/Wimdy/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="WSgs6Tg"  ><a href="//imgur.com/WSgs6Tg">W I M D Y</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
