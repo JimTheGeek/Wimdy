@@ -3,4 +3,4 @@
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![myfile](https://github.com/JimTheGeek/Wimdy/blob/gh-pages/WSgs6Tg.mp4)
+![myfile](https://github.com/JimTheGeek/Wimdy/blob/e9a43b8645703706b117d3d5803f2f80e9233137/WSgs6Tg.mp4)
